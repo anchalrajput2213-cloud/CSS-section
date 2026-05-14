@@ -1,0 +1,14 @@
+#pera {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+    line-height: 20px;
+    text-align: left;
+    color: blue;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    word-spacing: normal;
+    text-shadow: 1px 1px;
+    text-transform: uppercase;
+
+}
